@@ -4,12 +4,12 @@
 
 1. Clone this project
 ```
-git clone https://github.com/verma-kunal/AWS-Session.git
+git clone https://github.com/Hadeedahmed254/first-app-deploy.git
 ```
 2. Setup the following environment variables - `(.env)` file
-```
-<img width="559" height="184" alt="Screenshot 2025-12-02 115546" src="https://github.com/user-attachments/assets/cfc137fc-ac24-47de-8781-88a7e6c63e49" />
+<img width="559" height="184" alt="Screenshot 2025-12-02 115546" src="https://github.com/user-attachments/assets/cbf6caec-e4c1-4d6b-9de0-6508f4543cf6" />
 
+```
 DOMAIN= ""
 PORT=3000
 STATIC_DIR="./client"
