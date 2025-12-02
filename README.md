@@ -8,6 +8,8 @@ git clone https://github.com/verma-kunal/AWS-Session.git
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
+<img width="559" height="184" alt="Screenshot 2025-12-02 115546" src="https://github.com/user-attachments/assets/cfc137fc-ac24-47de-8781-88a7e6c63e49" />
+
 DOMAIN= ""
 PORT=3000
 STATIC_DIR="./client"
@@ -16,10 +18,13 @@ PUBLISHABLE_KEY=""
 SECRET_KEY=""
 ```
 3. Initialise and start the project
+<img width="933" height="202" alt="Screenshot 2025-12-02 115553" src="https://github.com/user-attachments/assets/94adf662-c44d-4386-9f4b-190558137eb0" />
+
 ```
 npm install
 npm run start
 ```
+<img width="1909" height="1020" alt="Screenshot 2025-12-02 124026" src="https://github.com/user-attachments/assets/6195f515-0b6b-43a2-b366-3521f5c86eb9" />
 
 ### Set up an AWS EC2 instance
 
@@ -48,7 +53,7 @@ sudo apt update
 
 1. Clone this project in the remote VM
 ```
-git clone https://github.com/verma-kunal/AWS-Session.git
+git clone https://github.com/Hadeedahmed254/first-app-deploy.git
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
