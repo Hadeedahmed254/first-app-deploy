@@ -56,6 +56,8 @@ sudo apt update
 git clone https://github.com/Hadeedahmed254/first-app-deploy.git
 ```
 2. Setup the following environment variables - `(.env)` file
+<img width="708" height="139" alt="Screenshot 2025-12-02 133332" src="https://github.com/user-attachments/assets/cb891c66-a339-40aa-b85a-173f7a789200" />
+
 ```
 DOMAIN= ""
 PORT=3000
@@ -74,4 +76,8 @@ npm run start
 
 > NOTE - We will have to edit the **inbound rules** in the security group of our EC2, in order to allow traffic from our particular port
 
+<img width="1571" height="42" alt="Screenshot 2025-12-02 133417" src="https://github.com/user-attachments/assets/c2ed1678-a0c7-4fa7-9db5-05978cc0e210" />
+
 ### Project is deployed on AWS 🎉
+<img width="1919" height="942" alt="Screenshot 2025-12-02 133556" src="https://github.com/user-attachments/assets/f756038b-7c23-4043-8396-3b35e33d84c3" />
+
